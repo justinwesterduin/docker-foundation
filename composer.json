@@ -1,0 +1,8 @@
+{
+  "name": "maxserv/foundation",
+  "description": "Foundation project voor het ontwikkelen van PHP applicaties met Docker",
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "php": "^8.2"
+  }
+}
